@@ -17,15 +17,7 @@
 ---
 
 ## 📂 Featured Projects  
-<p align="left">
-  <a href="https://github.com/amarnath-kambale/etl-python-pandas"><img alt="ETL‑Pandas" src="https://img.shields.io/badge/ETL‑Pandas-informational?style=flat&logo=python"/></a>
-  <a href="https://github.com/amarnath-kambale/pc-to-idmc-migration"><img alt="PC→IDMC" src="https://img.shields.io/badge/PowerCenter→IDMC-success?style=flat&logo=informatica"/></a>
-  <a href="https://github.com/amarnath-kambale/covid-data-analysis"><img alt="COVID‑Analysis" src="https://img.shields.io/badge/COVID‑Analysis‑SQL‑%26‑Visualization-important?style=flat&logo=postgresql"/></a>
-</p>
 
-> **Pinned →** I’ve chosen these repos to showcase my end‑to‑end pipeline design, migration automation, and data analysis skills :contentReference[oaicite:2]{index=2}.
-
----
 
 ## 📈 GitHub Activity  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarnath-kambale&theme=default)
