@@ -1,19 +1,61 @@
-<h1 align="center">Hi 👋, I'm Amarnath</h1>
-<h3 align="center">A passionate full stack developer and data scientist from India</h3>
-
-- 🌱 I’m currently learning **spring Boot and microservices**
-
-- 💬 Ask me about **java spring Boot and microservices**
-
-- 📫 How to reach me **1sk20cs003amarnath@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1blnjCj-vF6XlfsqG_6wlES9Ami3o-fbp/view?usp=sharing](https://drive.google.com/file/d/1blnjCj-vF6XlfsqG_6wlES9Ami3o-fbp/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amarnath11221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarnath11221" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amarnath-kambale-2a42ba258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amarnath-kambale-2a42ba258/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amarnath-kambale&style=flat-square" alt="Profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amarnath-kambale&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarnath-kambale&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-trophy.vercel.app/?username=amarnath-kambale&theme=flat"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 👋 Hi, I’m Amarnath Kambale  
+**Cloud Modernization Engineer @ Informatica** → Aspiring **Data Engineer**  
+- 🔭 I build ETL logic and modernize data pipelines with **PowerCenter** & **Informatica IDMC** :contentReference[oaicite:0]{index=0}  
+- 🌱 Currently learning **Apache Spark**, **Airflow** & **Kafka**  
+- 💬 Ask me about **ETL**, **data modeling**, or **cloud data integration**  
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/amarnath-kambale-2a42ba258/)  
+
+---
+
+## 🛠️ Tech Stack  
+| ETL & Orchestration | Databases          | Languages       | Cloud & DevOps      |
+| ------------------- | ------------------ | --------------- | ------------------- |
+| PowerCenter, IDMC   | MySQL, PostgreSQL  | Python, SQL     | AWS (S3, EMR), GCP  |
+| Apache Airflow      | MongoDB (learning) | Bash            | Docker, GitHub Actions :contentReference[oaicite:1]{index=1} |
+| Apache Spark        |                    |                 |                      |
+
+---
+
+## 📂 Featured Projects  
+<p align="left">
+  <a href="https://github.com/amarnath-kambale/etl-python-pandas"><img alt="ETL‑Pandas" src="https://img.shields.io/badge/ETL‑Pandas-informational?style=flat&logo=python"/></a>
+  <a href="https://github.com/amarnath-kambale/pc-to-idmc-migration"><img alt="PC→IDMC" src="https://img.shields.io/badge/PowerCenter→IDMC-success?style=flat&logo=informatica"/></a>
+  <a href="https://github.com/amarnath-kambale/covid-data-analysis"><img alt="COVID‑Analysis" src="https://img.shields.io/badge/COVID‑Analysis‑SQL‑%26‑Visualization-important?style=flat&logo=postgresql"/></a>
+</p>
+
+> **Pinned →** I’ve chosen these repos to showcase my end‑to‑end pipeline design, migration automation, and data analysis skills :contentReference[oaicite:2]{index=2}.
+
+---
+
+## 📈 GitHub Activity  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarnath-kambale&theme=default)
+
+---
+
+## 🎯 My Learning Roadmap  
+- **🔒 Data Warehousing & Modeling**  
+- **⚡️ Batch & Streaming Pipelines (Spark, Kafka)**  
+- **⏲️ Workflow Orchestration (Airflow, Prefect)**  
+- **☁️ MLOps & DataOps Fundamentals**  
+
+---
+
+## 📫 Let’s Connect  
+<p align="left">
+  <a href="mailto:amarnath.kambale@example.com"><img src="https://img.shields.io/badge/Email-amarnath.kambale%40example.com-red?style=flat-square&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/amarnath-kambale-2a42ba258/"><img src="https://img.shields.io/badge/LinkedIn-Amarnath_Kambale-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-@your_handle-lightblue?style=flat-square&logo=twitter"/></a>
+</p>
+
+---
+
+<p align="center">“Data is the new oil – let’s refine it!”</p>
