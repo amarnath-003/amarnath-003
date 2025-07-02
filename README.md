@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amarnath-kambale&style=flat-square" alt="Profile views"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=amarnath-kambale&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarnath-kambale&layout=compact" alt="Top Languages"/>
-  <img src="https://github-readme-trophy.vercel.app/?username=amarnath-kambale&theme=flat"/>
-</p>
-
----
-
 ## 👋 Hi, I’m Amarnath Kambale  
 **Cloud Modernization Engineer @ Informatica** → Aspiring **Data Engineer**  
 - 🔭 I build ETL logic and modernize data pipelines with **PowerCenter** & **Informatica IDMC** :contentReference[oaicite:0]{index=0}  
