@@ -1,9 +1,9 @@
 # Hi there, I'm Amarnath! 👋
 
-### 🚀 Azure Data Engineer & Cloud Automation Specialist
-I am an analytical **Data Engineer** with over a year of enterprise experience specializing in building scalable data pipelines, managing cloud data lakes, and driving infrastructure automation. 
+### 🚀 Azure Data Engineer @Salesforce
+I am a **Data Engineer** with over a year of enterprise experience specializing in building scalable data pipelines, managing cloud data lakes, and driving infrastructure automation. 
 
-My primary focus is architecting robust **ETL/ELT data solutions within the Microsoft Azure ecosystem** alongside advanced enterprise tools like Informatica IICS (CDI/CDQ) and Salesforce IDMC. I leverage heavy automation via **Python** and advanced query tuning in **SQL** to transform massive, disjointed datasets into highly available, secure, and production-ready data assets.
+My primary focus is architecting robust **ETL/ELT data solutions within the Microsoft Azure ecosystem** alongside advanced enterprise tools like Informatica IICS (CDI/CDQ). I leverage heavy automation via **Python** and advanced query tuning in **SQL** to transform massive, disjointed datasets into highly available, secure, and production-ready data assets.
 
 ---
 
