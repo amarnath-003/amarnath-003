@@ -1,44 +1,50 @@
-## 👋 Hi, I’m Amarnath Kambale  
-**Cloud Modernization Engineer @ Informatica** → Aspiring **Data Engineer**  
-- 🔭 I build ETL logic and modernize data pipelines with **PowerCenter** & **Informatica IDMC** :contentReference[oaicite:0]{index=0}  
-- 🌱 Currently learning **Apache Spark**, **Airflow** & **Kafka**  
-- 💬 Ask me about **ETL**, **data modeling**, or **cloud data integration**  
-- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/amarnath-kambale-2a42ba258/)  
+```markdown
+# Hi there, I'm Amarnath! 👋
+
+### 🚀 Azure Data Engineer & Cloud Automation Specialist
+I am an analytical **Data Engineer** with over a year of enterprise experience specializing in building scalable data pipelines, managing cloud data lakes, and driving infrastructure automation. 
+
+My primary focus is architecting robust **ETL/ELT data solutions within the Microsoft Azure ecosystem** alongside advanced enterprise tools like Informatica IICS (CDI/CDQ) and Salesforce IDMC. I leverage heavy automation via **Python** and advanced query tuning in **SQL** to transform massive, disjointed datasets into highly available, secure, and production-ready data assets.
 
 ---
 
-## 🛠️ Tech Stack  
-| ETL & Orchestration | Databases          | Languages       | Cloud & DevOps      |
-| ------------------- | ------------------ | --------------- | ------------------- |
-| PowerCenter, IDMC   | MySQL, PostgreSQL  | Python, SQL     | AWS (S3, EMR), GCP  |
-| Apache Airflow      | MongoDB (learning) | Bash            | Docker, GitHub Actions :contentReference[oaicite:1]{index=1} |
-| Apache Spark        |                    |                 |                      |
+### 🛠️ My Cloud & Data Toolkit
+
+- **Azure Data Engineering:** Azure Data Factory (ADF), Azure Data Lake Storage (ADLS Gen2), Synapse Analytics (Concepts), Azure DevOps
+- **Data Engineering & ETL/ELT:** Pipeline Orchestration, Informatica Intelligent Cloud Services (IICS), IDMC Taskflows, Data Modeling, Schema Design, Change Data Capture (CDC)
+- **Programming & Scripting:** Python (Pandas, NumPy, DB Connectors), SQL (Advanced Queries, CTEs, Window Functions, Stored Procedures), Bash/Linux Shell Scripting
+- **DevOps & Security:** Git/GitHub, CI/CD Pipeline Build Concepts, Token-Based API Integrations, Access Control & Enterprise Data Governance
 
 ---
 
-## 📂 Featured Projects  
+### 💻 Featured Repositories & Projects
 
+#### ⚡ [Automated Azure Data Ingestion & Pipeline Orchestration]
+* **Tech Stack:** Azure Data Factory, ADLS Gen2, SQL Server, Python
+* Built and optimized end-to-end cloud data pipelines to orchestrate relational and unstructured data streams into centralized Azure Data Lakes.
+* Implemented parameterization and dynamic execution paths within Azure Data Factory to maximize pipeline reuse and data availability.
+* Utilized SQL and Python validation scripts to monitor row-count reconciliations and delta tracking, cutting data validation times by 40%.
 
-## 📈 GitHub Activity  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amarnath-kambale&theme=default)
-
----
-
-## 🎯 My Learning Roadmap  
-- **🔒 Data Warehousing & Modeling**  
-- **⚡️ Batch & Streaming Pipelines (Spark, Kafka)**  
-- **⏲️ Workflow Orchestration (Airflow, Prefect)**  
-- **☁️ MLOps & DataOps Fundamentals**  
-
----
-
-## 📫 Let’s Connect  
-<p align="left">
-  <a href="mailto:amarnath.kambale@example.com"><img src="https://img.shields.io/badge/Email-amarnath.kambale%40example.com-red?style=flat-square&logo=gmail"/></a>
-  <a href="https://www.linkedin.com/in/amarnath-kambale-2a42ba258/"><img src="https://img.shields.io/badge/LinkedIn-Amarnath_Kambale-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-@your_handle-lightblue?style=flat-square&logo=twitter"/></a>
-</p>
+#### 🛠️ [Secure Cloud Infrastructure & Agent Automation Framework]
+* **Tech Stack:** Bash, Linux Shell, REST APIs, Git/GitHub
+* Engineered an enterprise-grade automation framework for the silent deployment and host configuration of secure cloud runtime agents, **increasing setup speeds by 70%**.
+* Integrated token-based API authentication mechanisms to manage network registrations safely under strict Linux file system access controls.
+* Created an automated uninstallation and environment cleanup utility to eliminate configuration drift across hybrid cloud architectures.
 
 ---
 
-<p align="center">“Data is the new oil – let’s refine it!”</p>
+### 🎓 Education & Professional Credentials
+
+- **Bachelor of Engineering (B.E.) in Computer Science & Engineering** | Government S K S J T I, Bengaluru
+- **Informatica Certified Professional** – Cloud Data Integration Developer *(Sept 2025)*
+- **Machine Learning Specialization** – DeepLearning.AI
+
+---
+
+### 🤝 Let's Connect!
+
+- **📍 Location:** Bengaluru, India (Open to Remote / Hybrid roles)
+- **💼 LinkedIn:** [Your LinkedIn Profile URL]
+- **📧 Email:** 1sk20cs003amarnath@gmail.com
+
+```
