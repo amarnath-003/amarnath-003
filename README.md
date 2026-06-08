@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Amarnath! 👋
 
 ### 🚀 Azure Data Engineer & Cloud Automation Specialist
